@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoEFCoreWeb
+build_property.RootNamespace = DemoEFCoreWeb
+build_property.ProjectDir = D:\Nam4_HK2\ThucTapDoanhNghiep_Nam4_HK2\C#\DemoEFCoreWeb\DemoEFCoreWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Nam4_HK2\ThucTapDoanhNghiep_Nam4_HK2\C#\DemoEFCoreWeb\DemoEFCoreWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam4_HK2/ThucTapDoanhNghiep_Nam4_HK2/C\#/DemoEFCoreWeb/DemoEFCoreWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n18e28qodx
